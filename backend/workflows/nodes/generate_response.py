@@ -1,1 +1,0 @@
-# generate_response_node implementation

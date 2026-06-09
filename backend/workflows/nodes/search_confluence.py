@@ -1,1 +1,0 @@
-# search_confluence_node implementation
